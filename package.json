@@ -1,0 +1,19 @@
+{
+  "name": "hac",
+  "version": "1.0.0",
+  "title": "Heterogeneous Access Control",
+  "description": "A heterogeneous access control module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rbac",
+    "ibac"
+  ],
+  "author": "Brij Kishor <brijkishor.cse@gmail.com> (https://github.com/kishorsharma)",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
